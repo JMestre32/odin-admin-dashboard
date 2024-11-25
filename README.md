@@ -1,0 +1,1 @@
+Hi! This is an admin dashboard I made as part of The Odin Project Javascript path. It was made primarily with grid. 
